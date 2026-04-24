@@ -31,6 +31,7 @@ Retail managers often struggle with inventory and staffing due to unpredictable 
 * **Main Notebook**: [Track2 XinchunRao.ipynb](./Track2%20XinchunRao.ipynb)
 * **Forecast Output**: [prediction.csv](./prediction.csv)
 * **Dataset Source**: [View on Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+* **Presentation Video**:[Mediasite Demo Link](https://mediasite.ntu.edu.sg/Mediasite/Channel/3685f67a21ca4903a45371f6522c1ef45f/watch/1487c6999be348f993d052d9b626154b1d)
 
 ## 7. Limitations & next steps
 * **External Factors**: Does not account for local holidays or competitor discounts.
