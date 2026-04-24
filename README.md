@@ -28,7 +28,7 @@ Retail managers often struggle with inventory and staffing due to unpredictable 
 4. Run `ACC102 Track2 (1).ipynb` to generate `prediction.csv`.
 
 ## 6. Product link / Demo
-* **Main Notebook**: [Track2 .ipynb](./Track2%20.ipynb)
+* **Main Notebook**: [Track2 XinchunRao.ipynb](./Track2%20XinchunRao.ipynb)
 * **Forecast Output**: [prediction.csv](./prediction.csv)
 * **Dataset Source**: [View on Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
