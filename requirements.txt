@@ -1,0 +1,10 @@
+# Data Processing and Scientific Computing
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Time Series Forecasting Models
+statsmodels
